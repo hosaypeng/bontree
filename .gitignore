@@ -1,5 +1,6 @@
 bontree
 www/node_modules/
+www/package-lock.json
 www/.svelte-kit/
 www-old/
 
