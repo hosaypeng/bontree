@@ -2,3 +2,17 @@ bontree
 www/node_modules/
 www/.svelte-kit/
 www-old/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Editor swap files
+*.swp
